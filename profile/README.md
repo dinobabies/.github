@@ -1,10 +1,5 @@
-## Hi there 👋
+# [ibm-responds-to-ageism-claims](https://www.linkedin.com/news/story/ibm-responds-to-ageism-claims-5247932/)
 
-**Here are some ideas to get you started:**
+IBM is responding after internal communications submitted as part of a court filing in an age discrimination case showed executives called older workers "dinobabies" who should be "extinct." The filing also contains other emails, including officials' complaints about IBM's "dated maternal workforce" and frustration that its share of millennials was lower than a competitor. IBM maintains that it never took part in systematic age discrimination and only laid off workers for reasons related to business conditions, not age.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
