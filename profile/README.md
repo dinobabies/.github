@@ -51,6 +51,8 @@ by Jonathan Walker
 
 ### "But the Artificial has no Intelligence at all!"
 
+Many years ago, there was an Chief, who was so excessively fond of new chips.
+
 #### artificial 
 - adjective
   
