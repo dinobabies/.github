@@ -49,19 +49,9 @@ said a little child.
 ## The Machine's New Cognitive Abilities
 by Jonathan Walker
 
+Many years ago, there were Executives who were so excessively fond of new chips, that they spent everyone's resources on datacenters. They did not trouble themselves in the least about others; nor did they care to go either to the theatre or the chase, except for the opportunities then afforded them for taking freely from others to feed their chips.
+
+...
+
 ### "But the Artificial has no Intelligence at all!"
-
-Many years ago, there was an Chief, who was so excessively fond of new chips.
-
-#### artificial 
-- adjective
-  
-1. made or produced by human beings rather than occurring naturally, especially as a copy of something natural:
-  - her skin glowed in the artificial light | an artificial limb | artificial flowers.
-    - (of a situation or concept) not existing naturally; contrived or false:
-      - the artificial division of people into age groups.
-2. (of a person or their behavior) insincere or affected:
-  - an artificial smile.
-3. Bridge (of a bid) conventional as opposed to natural:
-  - the Italian team began with an artificial club.
-
+said a dinosaur.
