@@ -1,5 +1,16 @@
 # But the Artificial has no Intelligence at all!
 
+## The Machine's New Cognitive Abilities
+by Jonathan Walker
+
+Many years ago, there were Executives who were so excessively fond of new chips, that they spent everyone's resources on datacenters. They did not trouble themselves in the least about others; nor did they care to go either to the theatre or the chase, except for the opportunities then afforded them for taking freely from others to feed their chips.
+
+...
+
+### "But the Artificial has no Intelligence at all!"
+said a dinosaur.
+
+
 ## [THE EMPEROR'S NEW CLOTHES](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0001)
 By Hans Christian Andersen
 
@@ -46,12 +57,3 @@ said a little child.
 “Listen to the voice of innocence!” exclaimed his father; and what the child had said was whispered from one to another.
 “But he has nothing at all on!” at last cried out all the people. The Emperor was vexed, for he knew that the people were right; but he thought the procession must go on now! And the lords of the bedchamber took greater pains than ever, to appear holding up a train, although, in reality, there was no train to hold.
 
-## The Machine's New Cognitive Abilities
-by Jonathan Walker
-
-Many years ago, there were Executives who were so excessively fond of new chips, that they spent everyone's resources on datacenters. They did not trouble themselves in the least about others; nor did they care to go either to the theatre or the chase, except for the opportunities then afforded them for taking freely from others to feed their chips.
-
-...
-
-### "But the Artificial has no Intelligence at all!"
-said a dinosaur.
