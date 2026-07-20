@@ -1,17 +1,77 @@
-# But the Artificial has no Intelligence at all!
+# And that's the way it is
+## Would you ever hear anyone publicly suggest teaching the alphabet is bad for society?
+If I suggest in this age we should also teach
+- ascii along with the alphabet
+- base 2 counting along with base 10
+- Git for everyone. It isn't just source control.
+  - it's the modern version of the gutenberg press
+  - ![press](https://upload.wikimedia.org/wikipedia/commons/1/1b/Die_Buchdruckerei_by_Daniel_Chodowiecki_%28150289207%29.jpg)
+  - it's a time machine for thinking
 
-## The Machine's New Cognitive Abilities
-by Jonathan Walker
+- [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. E. SHANNON
+  - Need help from J.E. Thompson to understand Claude Shannon's paper
+    - [Arithmetic for the Practical Man](https://dn790009.ca.archive.org/0/items/in.ernet.dli.2015.463129/2015.463129.Arithmetic-For.pdf)
+    - [Algebra for the Practical Man](https://dn790003.ca.archive.org/0/items/j.e.thompsonalgebraforthepracticalman/J._E._Thompson_Algebra_for_the_Practical_Man.pdf)
+    - [Trigonometry for the Practical man](https://www.rexresearch1.com/TrigonometryLibrary/TrigonometryPracticalManThompson.pdf)
+    - [Calculus: For the Practical Man](https://dn760107.eu.archive.org/0/items/in.ernet.dli.2015.462654/2015.462654.Calculus--.pdf)
+  - Can we apply Shannon's diagram to our modern society
+    - Noise is Social Media, Media, Polititions, Hollywood
+    - **Information source** is being captured and being re-branded Intelligence
+    - desired **destination** is who's willing to to fall in line and repeat without thinking
+    - how can we re-aline **transmitter** and **recievers** back to Walter Cronkite’s:
+      -  most famous sign-off, "And that's the way it is"
+      -  encapsulating his broadcasting ideal to report facts objectively. 
+
+  <img width="676" height="340" alt="Screenshot 2026-07-20 at 1 36 27 PM" src="https://github.com/user-attachments/assets/41c19865-29e3-489e-af5b-566219ba2971" /> 
+
+## Tech CEOs 
+- they lead the world's most valuable companies, heavily steering the modern artificial intelligence arms race. The most prominent industry leaders include Jensen Huang (NVIDIA), Satya Nadella (Microsoft), Sam Altman (OpenAI), Sundar Pichai (Google/Alphabet), Mark Zuckerberg (Meta), Tim Cook (Apple), and Elon Musk (Tesla and SpaceX)
+- I invite them for a disscusion on how we can raise the percentage of **High Computer Proficiency (Level 3)** to 50%
+  - what would society look like?
+
+
+
+
+
+## What percentage of the population understands computers?
+AI Overview: Approximately 90% of the population uses computers or smartphones daily. However, in-depth computer literacy is much rarer: only about 5% to 6% of adults possess high-level, multi-step problem-solving skills with technology. [1, 2, 3, 4]
+Because understanding varies, technology proficiency is categorized by the Organisation for Economic Co-operation and Development (OECD) into four distinct skill levels: [1, 2, 3, 4, 5]
+1. High Computer Proficiency (Level 3)
+Percentage: ~5% of the adult population
+What it means: Can complete complex problem-solving tasks, such as operating across multiple applications, evaluating data, and performing advanced functions. [1, 2, 3]
+2. Moderate Computer Competency (Level 2)
+Percentage: ~26% of the adult population
+What it means: Can solve problems using software like spreadsheets, fill out online forms, and navigate across multiple websites. [1, 2, 3]
+3. Basic & Below Basic (Level 1 and Below)
+Percentage: ~43% of the adult population
+What it means: Can perform simple, single-step operations like opening an email or clicking a link, but struggle with more complex navigation or problem-solving. [1, 2, 3, 4, 5]
+4. Unable to Use a Computer
+Percentage: ~26% of the adult population
+What it means: Users in this group lack the skills to evaluate or use a generic computer interface effectively. [1, 2]
+Note: If "understanding" computers implies being able to write code or develop software, that figure drops drastically to less than 1% of the global population. [1]
+
+## Before the Gutenberg Press what was the literacy rate?
+AI Overview: Before the Gutenberg press (circa 1440), the European adult literacy rate was remarkably low, estimated at roughly 5% overall. Because books were painstakingly handwritten by scribes, they were incredibly rare and expensive luxury items restricted to the wealthy and the clergy. [1, 2, 3, 4]
+However, literacy varied drastically depending on location, social class, and environment:
+Urban vs. Rural: In major European cities, urban literacy reached roughly 30%, whereas rural areas were almost entirely illiterate.
+Classes: Reading and writing were generally confined to the nobility, merchants, and religious scholars. For instance, London males in the 15th century had a literacy rate of around 40%, but the vast majority of the lower classes and peasants could not read.
+General Population: In 14th-century England, an estimated 80% of adults could not even spell their own names. [1, 2, 3, 4]
+
+
+
+## But the Artificial has no Intelligence at all!
+
+### The Machine's New Cognitive Abilities
 
 Many years ago, there were Executives who were so excessively fond of new chips, that they spent everyone's resources on datacenters. They did not trouble themselves in the least about others; nor did they care to go either to the theatre or the chase, except for the opportunities then afforded them for taking freely from others to feed their chips.
 
 ...
 
-### "But the Artificial has no Intelligence at all!"
+#### "But the Artificial has no Intelligence at all!"
 said a dinosaur.
 
 
-## [THE EMPEROR'S NEW CLOTHES](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0001)
+### [THE EMPEROR'S NEW CLOTHES](https://www.gutenberg.org/files/1597/1597-h/1597-h.htm#link2H_4_0001)
 By Hans Christian Andersen
 
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he spent all his money in dress. He did not trouble himself in the least about his soldiers; nor did he care to go either to the theatre or the chase, except for the opportunities then afforded him for displaying his new clothes. He had a different suit for each hour of the day; and as of any other king or emperor, one is accustomed to say, “he is sitting in council,” it was always said of him, “The Emperor is sitting in his wardrobe.”
@@ -52,7 +112,7 @@ The Emperor was accordingly undressed, and the rogues pretended to array him in 
 The lords of the bedchamber, who were to carry his Majesty's train felt about on the ground, as if they were lifting up the ends of the mantle; and pretended to be carrying something; for they would by no means betray anything like simplicity, or unfitness for their office.
 So now the Emperor walked under his high canopy in the midst of the procession, through the streets of his capital; and all the people standing by, and those at the windows, cried out, “Oh! How beautiful are our Emperor's new clothes! What a magnificent train there is to the mantle; and how gracefully the scarf hangs!” in short, no one would allow that he could not see these much-admired clothes; because, in doing so, he would have declared himself either a simpleton or unfit for his office. Certainly, none of the Emperor's various suits, had ever made so great an impression, as these invisible ones.
 
-### “But the Emperor has nothing at all on!” 
+#### “But the Emperor has nothing at all on!” 
 said a little child.
 “Listen to the voice of innocence!” exclaimed his father; and what the child had said was whispered from one to another.
 “But he has nothing at all on!” at last cried out all the people. The Emperor was vexed, for he knew that the people were right; but he thought the procession must go on now! And the lords of the bedchamber took greater pains than ever, to appear holding up a train, although, in reality, there was no train to hold.
