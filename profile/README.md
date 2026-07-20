@@ -4,9 +4,10 @@ If I suggest in this age we should also teach
 - ascii along with the alphabet
 - base 2 counting along with base 10
 - Git for everyone. It isn't just source control.
+  - it's a time machine for thinking
   - it's the modern version of the gutenberg press
   - ![press](https://upload.wikimedia.org/wikipedia/commons/1/1b/Die_Buchdruckerei_by_Daniel_Chodowiecki_%28150289207%29.jpg)
-  - it's a time machine for thinking
+
 
 - [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. E. SHANNON
   - Need help from J.E. Thompson to understand Claude Shannon's paper
@@ -15,8 +16,8 @@ If I suggest in this age we should also teach
     - [Trigonometry for the Practical man](https://www.rexresearch1.com/TrigonometryLibrary/TrigonometryPracticalManThompson.pdf)
     - [Calculus: For the Practical Man](https://dn760107.eu.archive.org/0/items/in.ernet.dli.2015.462654/2015.462654.Calculus--.pdf)
   - Can we apply Shannon's diagram to our modern society
-    - Noise is Social Media, Media, Polititions, Hollywood
-    - **Information source** is being captured and being re-branded Intelligence
+    - Noise is Social Media, Media, Politicians, Hollywood
+    - **Information source** is being captured and re-branded Intelligence
     - desired **destination** is who's willing to to fall in line and repeat without thinking
     - how can we re-aline **transmitter** and **recievers** back to Walter Cronkite’s:
       -  most famous sign-off, "And that's the way it is"
